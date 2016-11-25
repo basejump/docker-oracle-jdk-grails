@@ -1,11 +1,16 @@
-# Oracle JDK 1.8 and Grails Docker Image
+# Oracle JDK and Grails Docker Image
+
+## Docker Image Versions:
+- [3.2.3](https://github.com/pascencio/docker-oracle-jdk-grails/releases/tag/3.2.3)
+- [latest](https://github.com/pascencio/docker-oracle-jdk-grails/releases/tag/3.2.3)
+
 
 ## Docker Image Content:
 This versión include:
-- Oracle JDK 1.8
-- Sdkman 5.2
-- Grails 3.2.3
-- Gradle 3.0
+- Oracle JDK
+- Sdkman
+- Grails
+- Gradle
 
 ## Docker Image Usage:
 If you want run a grails application inside a docker container with this image, must execute the the following command:
